@@ -24,7 +24,7 @@ Universal Compatibility: Works with any convolution reverb engine or FIR process
 
 ### 🛠️ Setup & Usage Guide
 
-### 💻 1. System-Wide Correction on Windows (Equalizer APO)
+### 💻 1. System-Wide Correction on Windows (Equalizer APO) (Mac OS: Audio Hijack)
 
 To apply the correction filter to all audio coming out of your PC (Spotify, YouTube, games, browser, etc.):
 

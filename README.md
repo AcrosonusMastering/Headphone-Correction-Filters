@@ -4,17 +4,7 @@ A collection of 74 impulse responses (IR) in .wav format (48 kHz) designed to co
 
 By applying these convolution reverbs / FIR filters, you can neutralize the sound signature of your headphones for a flatter, more transparent, and balanced listening experience—ideal for mixing, mastering, or audiophile music listening.
 
-📌 Suggested Repository Names
 
-If you haven't named your GitHub repository yet, here are a few recommended options:
-
-headphone-convolution-eq (Recommended: clear and searchable)
-
-headphone-ir-correction
-
-headphone-correction-filters
-
-headphone-fir-equalization
 
 🚀 Key Features
 

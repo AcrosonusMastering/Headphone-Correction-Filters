@@ -1,4 +1,4 @@
-🎧 Headphone Convolution EQ Collection
+### 🎧 Headphone Convolution EQ Collection
 
 A collection of 74 impulse responses (IR) in .wav format (48 kHz) designed to correct the frequency response of various headphones and earbuds.
 
@@ -6,7 +6,7 @@ By applying these convolution reverbs / FIR filters, you can neutralize the soun
 
 
 
-🚀 Key Features
+### 🚀 Key Features
 
 74 headphone & earbud models supported (Sennheiser, Sony, Beyerdynamic, Apple, Audeze, Focal, JBL, and more).
 
@@ -14,9 +14,9 @@ Audio Format: High-quality 48 kHz .wav impulse responses.
 
 Universal Compatibility: Works with any convolution reverb engine or FIR processor (Equalizer APO, ReaVerb, FabFilter Pro-R 2, SIR3, Peace GUI, etc.).
 
-🛠️ Setup & Usage Guide
+### ### 🛠️ Setup & Usage Guide
 
-💻 1. System-Wide Correction on Windows (Equalizer APO)
+### 💻 1. System-Wide Correction on Windows (Equalizer APO)
 
 To apply the correction filter to all audio coming out of your PC (Spotify, YouTube, games, browser, etc.):
 
@@ -42,7 +42,7 @@ Click the folder icon and browse to select the .wav file matching your headphone
 
 If EQ boosting causes digital clipping, add a Preamp control at the top of your signal chain and reduce the gain slightly (e.g., -3 dB to -6 dB).
 
-🎛️ 2. Usage in a Digital Audio Workstation (DAW)
+### 🎛️ 2. Usage in a Digital Audio Workstation (DAW)
 
 To apply correction exclusively within your DAW (REAPER, Pro Tools, Ableton Live, FL Studio, Cubase, Logic Pro, etc.):
 
@@ -54,7 +54,7 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 
 Important: Remember to bypass or disable the plugin before exporting/rendering your final audio track!
 
-🎧 Supported Models (74 Total)
+### 🎧 Supported Models (74 Total)
 ### AIAIAI
 - AIAIAI_TMA-2DJ
 

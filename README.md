@@ -14,6 +14,10 @@ https://www.rtings.com/headphones/learn/research/frequency-response-1-8
 
 Data Source: Measurements are sourced directly from Rtings due to their state-of-the-art test rigs and rigorous, standardized measurement protocols, ensuring maximum consistency across all models.
 
+### 💾 Download
+Click on the impulse file you want, then click the Download button (or the download icon in the top right).
+<img width="1351" height="200" alt="image" src="https://github.com/user-attachments/assets/909f173d-5a54-433f-992b-92d20784e328" />
+
 ### 🚀 Key Features
 
 74 headphone & earbud models supported (Sennheiser, Sony, Beyerdynamic, Apple, Audeze, Focal, JBL, and more).

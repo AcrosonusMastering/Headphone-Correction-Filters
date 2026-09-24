@@ -14,7 +14,7 @@ Audio Format: High-quality 48 kHz .wav impulse responses.
 
 Universal Compatibility: Works with any convolution reverb engine or FIR processor (Equalizer APO, ReaVerb, FabFilter Pro-R 2, SIR3, Peace GUI, etc.).
 
-### ### 🛠️ Setup & Usage Guide
+### 🛠️ Setup & Usage Guide
 
 ### 💻 1. System-Wide Correction on Windows (Equalizer APO)
 

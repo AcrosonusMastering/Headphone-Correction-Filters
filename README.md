@@ -20,7 +20,7 @@ Data Source: Measurements are sourced directly from Rtings due to their state-of
 
 Audio Format: High-quality 48 kHz .wav impulse responses.
 
-Universal Compatibility: Works with any convolution reverb engine or FIR processor (Equalizer APO, ReaVerb, FabFilter Pro-R 2, SIR3, Peace GUI, etc.).
+Universal Compatibility: Works with any convolution reverb engine or FIR processor (Equalizer APO, MConvolutionEZ (free), etc.).
 
 ### 🛠️ Setup & Usage Guide
 

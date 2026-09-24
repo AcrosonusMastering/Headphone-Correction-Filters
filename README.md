@@ -4,7 +4,14 @@ A collection of 74 impulse responses (IR) in .wav format (48 kHz) designed to co
 
 By applying these convolution reverbs / FIR filters, you can neutralize the sound signature of your headphones for a flatter, more transparent, and balanced listening experience—ideal for mixing, mastering, or audiophile music listening.
 
+### 📊 Methodology & Measurements
 
+All impulse response filters in this project are created using measurement data from Rtings:
+
+Target Curve: The EQ correction targets the reference curve established in the Rtings Frequency Response Research Study.
+https://www.rtings.com/headphones/learn/research/frequency-response-1-8
+
+Data Source: Measurements are sourced directly from Rtings due to their state-of-the-art test rigs and rigorous, standardized measurement protocols, ensuring maximum consistency across all models.
 
 ### 🚀 Key Features
 

@@ -72,7 +72,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 ### AIAIAI
 - AIAIAI_TMA-2DJ
 
-### Apple
+### AKG
 - AKG_361
 - AKG_371
 - AKG_702
@@ -161,14 +161,14 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Samsung Galaxy Buds FE
 
 ### Sennheiser
-- Sennheiser HD 560S
-- Sennheiser HD 490 Pro
-- Sennheiser HD 660S2
-- Sennheiser HD 6XX
 - Sennheiser HD 25
 - Sennheiser HD 480 Pro
+- Sennheiser HD 490 Pro
+- Sennheiser HD 560S
+- Sennheiser HD 6XX
 - Sennheiser HD 600
 - Sennheiser HD 620S
+- Sennheiser HD 660S2
 - Sennheiser HD 800S
 - Sennheiser Momentum True Wireless 4
 - Sennheiser Momentum True Wireless 5

@@ -27,6 +27,10 @@ Click on the impulse file you want, then click the Download button (or the downl
 Audio Format: High-quality 48 kHz .wav impulse responses.
 
 Universal Compatibility: Works with any convolution reverb engine or FIR processor (Equalizer APO, MConvolutionEZ (free), etc.).
+EXAMPLE
+Anker Soundcore Life Q30:
+🟪purple original 🟦blue: target: 🟥red: reponse after correction<img width="1089" height="575" alt="Capture d&#39;écran 2026-09-25 160328" src="https://github.com/user-attachments/assets/998e1d4b-9a66-4924-a4ab-be4ade32d153" />
+
 
 ### 🛠️ Setup & Usage Guide
 

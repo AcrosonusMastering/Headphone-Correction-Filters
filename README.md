@@ -1,6 +1,6 @@
 Changelog:
 <details>
-<summary>Changelog:u</summary>
+<summary>Changelog:Headphones added</summary>
 
 ### Headphones added
 In the folder: Headphone_Old_Target_Curve_Response

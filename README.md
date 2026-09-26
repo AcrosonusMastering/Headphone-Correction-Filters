@@ -4,7 +4,7 @@ Changelog:
 
 ### Headphones added
 In the folder: Headphone_Old_Target_Curve_Response
-- AKG_K240_MKII-filters-48k
+- AKG_K240_MKII
 - AKG_K701
 - Audio-Technica_ATH_R70x
 - Audio-Technica_ath-m20x

@@ -12,7 +12,7 @@ Target Curve: The EQ correction targets the reference curve established in the R
 
 https://www.rtings.com/headphones/learn/research/frequency-response-1-8
 
-Data Source: Measurements are sourced directly from Rtings due to their state-of-the-art test rigs and rigorous, standardized measurement protocols, ensuring maximum consistency across all models.
+Data Source: Measurements are sourced directly from Rtings due to their state-of-the-art test rigs ( Brüel & Kjær (B&K) Type 5128-B) and rigorous, standardized measurement protocols, ensuring maximum consistency across all models.
 
 Unlike AutoEQ, which aggregates measurements from various sources without a single consistent protocol, this project uses standardized measurements from Rtings. Furthermore, AutoEQ's target curves are not always the best choice for neutral listenin
 

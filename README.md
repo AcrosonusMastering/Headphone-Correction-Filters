@@ -1,6 +1,6 @@
 ### 🎧 Headphone Convolution EQ Collection
 
-A collection of 74 impulse responses (IR) in .wav format (48 kHz) designed to correct the frequency response of various headphones and earbuds.
+A collection of 74 (more soon) impulse responses (IR) in .wav format (48 kHz) designed to correct the frequency response of various headphones and earbuds.
 
 By applying these convolution reverbs / FIR filters, you can neutralize the sound signature of your headphones for a flatter, more transparent, and balanced listening experience—ideal for mixing, mastering, or audiophile music listening.
 

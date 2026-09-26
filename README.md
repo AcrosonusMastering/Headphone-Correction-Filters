@@ -1,3 +1,22 @@
+Changelog:
+<details>
+<summary>Changelog:u</summary>
+
+### Headphones added
+In the folder: Headphone_Old_Target_Curve_Response
+- AKG_K240_MKII-filters-48k
+- AKG_K701
+- Audio-Technica_ATH_R70x
+- Audio-Technica_ath-m20x
+- Beyerdynamic_DT880
+- Beyerdynamic_DT1770_PRO
+- Beyerdynamic_T1_2nd_gen_2
+- Sennheiser_HD_599
+- Sennheiser_HD280_PRO_2016
+- Sennheiser_HD598
+
+</details>
+
 ### 🎧 Headphone Convolution EQ Collection
 
 A collection of 74 (more soon) impulse responses (IR) in .wav format (48 kHz) designed to correct the frequency response of various headphones and earbuds.

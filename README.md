@@ -156,7 +156,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Focal Azurys
 - Focal Bathys BT
 - Focal Bathys MG
-- 
+
 ### Fostex
 - Fostex_TH900MK2_LE
 

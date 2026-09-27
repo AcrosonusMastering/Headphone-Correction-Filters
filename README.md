@@ -29,6 +29,7 @@ In the folder: Headphone_Old_Target_Curve_Response
 - Beyerdynamic_DT880
 - Beyerdynamic_DT1770_PRO
 - Beyerdynamic_T1_2nd_gen_2
+- Focal_Clear_Mg
 - Grado The Hemp Headphone
 - RØDE NTH-100M
 - Sennheiser_HD_599

@@ -107,7 +107,7 @@ If EQ boosting causes digital clipping, add a Preamp control at the top of your 
 
 To apply correction exclusively within your DAW (REAPER, Pro Tools, Ableton Live, FL Studio, Cubase, Logic Pro, etc.):
 
-Insert a Convolution Reverb plugin on your Master Channel or Monitoring FX track (e.g., ReaVerb, FabFilter Pro-R 2, SIR3, Melda MConvolutionEZ).
+Insert a Convolution Reverb plugin on your Master Channel or Monitoring FX track (e.g., ReaVerb,, Melda MConvolutionEZ (free),......).
 
 Import the appropriate .wav file into the plugin.
 

@@ -24,7 +24,6 @@ In the folder: Headphone_Old_Target_Curve_Response
 - AKG_K240_MKII
 - AKG_K701
 - Audeze LCD 2 Classic
-- Apple EarPods
 - Audio-Technica_ATH_R70x
 - Audio-Technica_ath-m20x
 - Beyerdynamic_DT880

@@ -112,6 +112,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - ANKER_P40i
 - ANKER_Q30
 - ANKER_SOUNDCORE_P3I
+- Anker_Soundcore_Liberty_5_Pro
 
 ### Apple
 - Apple AirPod Max 2

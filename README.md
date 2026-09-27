@@ -9,6 +9,7 @@ In headphone calibration folder with the target curve update
 - V-Moda-Crossfade_3
 - Fostex_TH900MK2_LE
 - Nothing CMF_Headphone_Pro
+- Technics_EAH-AZ100
 
 In the folder: Headphone_Old_Target_Curve_Response
 - AKG_K240_MKII

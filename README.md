@@ -113,7 +113,7 @@ Import the appropriate .wav file into the plugin.
 
 Set the plugin mix control to 100% Wet / 0% Dry.
 
-Important: Remember to bypass or disable the plugin before exporting/rendering your final audio track!
+‼️‼️‼️Important: Remember to bypass or disable the plugin before exporting/rendering your final audio track!
 
 ### 🎧 Supported Models (74 Total)
 ### AIAIAI

@@ -6,6 +6,7 @@ Changelog:
 In headphone calibration folder with the target curve update
 - Asus_Roghh_Kithara
 - V-Moda-Crossfade_3
+- Fostex_TH900MK2_LE
 
 In the folder: Headphone_Old_Target_Curve_Response
 - AKG_K240_MKII
@@ -150,6 +151,9 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Focal Azurys
 - Focal Bathys BT
 - Focal Bathys MG
+- 
+### Fostex
+- Fostex_TH900MK2_LE
 
 ### Google
 - Google Pixel Buds Pro 2

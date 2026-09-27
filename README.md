@@ -22,6 +22,7 @@ In the folder: Headphone_Old_Target_Curve_Response
 - Sennheiser_HD_599
 - Sennheiser_HD280_PRO_2016
 - Sennheiser_HD598
+- Pioneer_DJ HDJ-CUE1BT
 
 </details>
 

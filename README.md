@@ -234,6 +234,9 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 ### Superlux
 - Superlux HD681
 
+### Technics
+- Technics_EAH-AZ100
+
 ### V-Moda
 - V-Moda-Crossfade_3
 

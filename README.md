@@ -4,6 +4,7 @@ Changelog:
 
 ### Headphones added
 In headphone calibration folder with the target curve update
+- Anker_Soundcore_Liberty_5
 - Asus_Roghh_Kithara
 - V-Moda-Crossfade_3
 - Fostex_TH900MK2_LE

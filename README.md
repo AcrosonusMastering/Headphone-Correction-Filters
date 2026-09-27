@@ -7,6 +7,7 @@ In headphone calibration folder with the target curve update
 - Asus_Roghh_Kithara
 - V-Moda-Crossfade_3
 - Fostex_TH900MK2_LE
+- Nothing CMF_Headphone_Pro
 
 In the folder: Headphone_Old_Target_Curve_Response
 - AKG_K240_MKII
@@ -184,6 +185,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 ### Nothing
 - Nothing Headphone (1)
 - Nothing Headphone (a)
+- CMF_Headphone_Pro
 
 ### Razer
 - Razer BlackShark V2 Pro (3)

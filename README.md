@@ -5,10 +5,19 @@ Changelog:
 ### Headphones added
 In headphone calibration folder with the target curve update
 - Anker_Soundcore_Liberty_5
+- Apple_AirPods_(3rd_gen)
 - Asus_Roghh_Kithara
+- Audeze_Maxwell_2
+- Bowers_Wilkins_Px7 S2BT
+- Bowers_Wilkins_Px7_S3
+- Bowers_Wilkins_Px8
+- Cambridge_Audio_Melomania_P100_SE
+- JBL_Vibe_Beam_2
+- JBL_Vibe_Buds_True_Wireless
 - V-Moda-Crossfade_3
 - Fostex_TH900MK2_LE
 - Nothing CMF_Headphone_Pro
+- Nothing_CMF_Buds_Pro_2
 - Technics_EAH-AZ100
 
 In the folder: Headphone_Old_Target_Curve_Response
@@ -120,6 +129,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Apple AirPod Max 2
 - Apple AirPod Pro 2
 - Apple AirPod Pro 3
+- Apple_AirPods_(3rd_gen)
 
   ### Asus
 - Asus_Roghh_Kithara
@@ -128,6 +138,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Audeze LCD-X
 - Audeze MM-100
 - Audeze MM-500
+- Audeze_Maxwell_2
 
 ### Audio-Technica
 - Audio-Technica ATH-M50X
@@ -147,6 +158,14 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Bose QuietComfort Headphones (2nd Gen)
 - Bose QuietComfort Headphones
 - Bose QuietComfort Ultra Headphones (2nd Gen)
+
+### Bowers_Wilkin
+- Bowers_Wilkins_Px8_Wireless
+- Bowers_Wilkins_Px7_S3
+- Bowers_Wilkins_Px7 S2BT
+
+### Cambridge_Audio
+- Cambridge_Audio_Melomania_P100_SE
 
 ### FiiO
 - FiiO FT1
@@ -178,6 +197,8 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - JBL Live 770BT
 - JBL Live 780BT
 - JBL Tune 520BT
+- JBL_Vibe_Beam_2
+- JBL_Vibe_Buds_True_Wireless
 
 ### Logitech
 - Logitech G535 Lightspeed BT
@@ -190,6 +211,7 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Nothing Headphone (1)
 - Nothing Headphone (a)
 - CMF_Headphone_Pro
+- CMF_Buds_Pro_2
 
 ### Razer
 - Razer BlackShark V2 Pro (3)

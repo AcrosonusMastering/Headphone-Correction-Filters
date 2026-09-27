@@ -3,6 +3,10 @@ Changelog:
 <summary>Changelog:Headphones added</summary>
 
 ### Headphones added
+In headphone calibration folder with the target curve update
+- Asus_Roghh_Kithara
+- V-Moda-Crossfade_3
+
 In the folder: Headphone_Old_Target_Curve_Response
 - AKG_K240_MKII
 - AKG_K701
@@ -111,6 +115,9 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 - Apple AirPod Pro 2
 - Apple AirPod Pro 3
 
+  ### Asus
+- Asus_Roghh_Kithara
+
 ### Audeze
 - Audeze LCD-X
 - Audeze MM-100
@@ -218,6 +225,9 @@ Important: Remember to bypass or disable the plugin before exporting/rendering y
 
 ### Superlux
 - Superlux HD681
+
+### V-Moda
+- V-Moda-Crossfade_3
 
 </details>
 

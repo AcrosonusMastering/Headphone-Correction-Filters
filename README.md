@@ -20,7 +20,7 @@ In headphone calibration folder with the target curve update
 - Nothing_CMF_Buds_Pro_2
 - Technics_EAH-AZ100
 
-In the folder: Headphone_Old_Target_Curve_Response
+In the folder: Headphone_Old_Target_Curve_Response = Harman "hybrid" target curve and not last Brüel & Kjær (B&K) Type 5128-B ) but still solve a LOT
 - AKG_K240_MKII
 - AKG_K701
 - Audeze LCD 2 Classic

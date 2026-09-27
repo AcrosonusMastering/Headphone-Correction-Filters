@@ -23,14 +23,19 @@ In headphone calibration folder with the target curve update
 In the folder: Headphone_Old_Target_Curve_Response
 - AKG_K240_MKII
 - AKG_K701
+- Audeze LCD 2 Classic
+- Apple EarPods
 - Audio-Technica_ATH_R70x
 - Audio-Technica_ath-m20x
 - Beyerdynamic_DT880
 - Beyerdynamic_DT1770_PRO
 - Beyerdynamic_T1_2nd_gen_2
+- Grado The Hemp Headphone
+- RØDE NTH-100M
 - Sennheiser_HD_599
 - Sennheiser_HD280_PRO_2016
 - Sennheiser_HD598
+- Superlux HD 668B 
 - Pioneer_DJ HDJ-CUE1BT
 
 </details>

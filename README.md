@@ -7,13 +7,38 @@ In headphone calibration folder with the target curve update
 - Anker_Soundcore_Liberty_5
 - Apple_AirPods_(3rd_gen)
 - Asus_Roghh_Kithara
+- Audeze_LCD-S20
 - Audeze_Maxwell_2
+- Bang___Olufsen_Beoplay_H
+- Beats_Solo_buds
+- Beats_Studio_Pro_BT
+- Bose_700_Headphone_BT
+- Bose_QuietComfort_45-QC4
 - Bowers_Wilkins_Px7 S2BT
 - Bowers_Wilkins_Px7_S3
 - Bowers_Wilkins_Px8
 - Cambridge_Audio_Melomania_P100_SE
+- Corsair_Virtuoso_Pro
+- DALI_IO_12
+- Dan_Clark_Audio_AEON_2_
+- Drop_+_Grell_OAE1
+- EarFun_Air_Pro_4+
+- HIFIman_Edition XS
+- HiFiMan_Arya_Organic
+- JBL_Endurance_Peak_4
+- JBL_Live_670NC
+- JBL_Live_680NC
+- JBL_Tune_770NC
+- JBL_Tune_Buds_True_Wireless
 - JBL_Vibe_Beam_2
 - JBL_Vibe_Buds_True_Wireless
+- JLab_Audio_GO_Sport+
+- Skullcandy_Crusher_1080 A
+- Sony_INZONE_Buds_Truly_
+- Sony_INZONE_E9
+- Sony_INZONE_H6_Air
+- Sony_INZONE_H9_II
+- Sony_LinkBuds_S_Truly_Wirless
 - V-Moda-Crossfade_3
 - Fostex_TH900MK2_LE
 - Nothing CMF_Headphone_Pro
@@ -133,7 +158,7 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 ### Apple
 - Apple AirPod Max 2
 - Apple AirPod Pro 2
-- Apple AirPod Pro 3
+- AppleAirPod Pro 3
 - Apple_AirPods_(3rd_gen)
 
   ### Asus
@@ -141,6 +166,7 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 
 ### Audeze
 - Audeze LCD-X
+- Audeze_LCD-S20
 - Audeze MM-100
 - Audeze MM-500
 - Audeze_Maxwell_2
@@ -149,8 +175,13 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 - Audio-Technica ATH-M50X
 - Audio-Technica ATH-ADX3000
 
+### Bang_&_Olufsen
+- Bang_&_Olufsen_Beoplay_H
+
 ### Beats
 - Beats Solo 4
+- Beats_Solo_buds
+- Beats_Studio_Pro_BT
 
 ### Beyerdynamic
 - Beyerdynamic MMX 300 (2nd Gen)
@@ -159,6 +190,9 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 - Beyerdynamic DT 1990 Pro MKII
 
 ### Bose
+
+- Bose_700_Headphone_BT
+- Bose_QuietComfort_45-QC4
 - Bose QuietComfort Earbuds II
 - Bose QuietComfort Headphones (2nd Gen)
 - Bose QuietComfort Headphones
@@ -171,6 +205,21 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 
 ### Cambridge_Audio
 - Cambridge_Audio_Melomania_P100_SE
+- 
+### Corsair
+- Corsair_Virtuoso_Pro
+
+### DALI
+- DALI_IO_12
+
+### Dan_Clark_Audio
+- Dan_Clark_Audio_AEON_2_
+
+### Drop_+_Grell
+- Drop_+_Grell_OAE1
+
+### EarFun
+- EarFun_Air_Pro_4+
 
 ### FiiO
 - FiiO FT1
@@ -192,6 +241,8 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 
 ### HIFIMAN
 - HIFIMAN Arya
+- HiFiMan_Arya_Organic
+- HIFIman_Edition XS
 - HIFIMAN HE400se
 - HIFIMAN Sundara (2020)
 
@@ -199,11 +250,19 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 - HyperX Cloud III BT
 
 ### JBL
+- JBL_Endurance_Peak_4
+- JBL_Live_670NC
+- JBL_Live_680NC
 - JBL Live 770BT
 - JBL Live 780BT
 - JBL Tune 520BT
+- JBL_Tune_770NC
+- JBL_Tune_Buds_True_Wireless
 - JBL_Vibe_Beam_2
 - JBL_Vibe_Buds_True_Wireless
+
+### JLab
+- JLab_Audio_GO_Sport+
 
 ### Logitech
 - Logitech G535 Lightspeed BT
@@ -243,8 +302,14 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 
 ### Skullcandy
 - Skullcandy Dime 3
+- Skullcandy_Crusher_1080 A
 
 ### Sony
+- Sony_INZONE_Buds_Truly_
+- Sony_INZONE_E9
+- Sony_INZONE_H6_Air
+- Sony_INZONE_H9_II
+- Sony_LinkBuds_S_Truly_Wireless
 - Sony MDR-7506
 - Sony WF-1000XM5
 - Sony WF-1000XM6

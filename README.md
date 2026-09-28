@@ -53,6 +53,7 @@ In the folder: Headphone_Old_Target_Curve_Response = Harman "hybrid" target curv
 - Audio-Technica_ath-m20x
 - Beyerdynamic_DT880
 - Beyerdynamic_DT1770_PRO
+- Beyerdynamic_DT_700_PRO_X
 - Beyerdynamic_T1_2nd_gen_2
 - Focal_Clear_Mg
 - Grado The Hemp Headphone

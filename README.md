@@ -45,7 +45,7 @@ In headphone calibration folder with the target curve update
 - Nothing_CMF_Buds_Pro_2
 - Technics_EAH-AZ100
 
-In the folder: Headphone_Old_Target_Curve_Response = Harman "hybrid" target curve and not last Brüel & Kjær (B&K) Type 5128-B ) but still solve a LOT
+In this folder, the headphone response curve is based on the Harman 'hybrid' target curve—not the latest Brüel & Kjær (B&K) Type 5128-B target—but it still solves a lot of issues.
 - AKG_K240_MKII
 - AKG_K701
 - Audeze LCD 2 Classic
@@ -141,7 +141,31 @@ Set the plugin mix control to 100% Wet / 0% Dry.
 
 ‼️‼️‼️Important: Remember to bypass or disable the plugin before exporting/rendering your final audio track!
 
-### 🎧 Supported Models (74 Total)
+### 🎧 Supported Models (130 Total)
+<details>
+<summary>headphone list in the folder: Headphone_Old_Target_Curve_Response</summary>
+
+In this folder, the headphone response curve is based on the Harman 'hybrid' target curve—not the latest Brüel & Kjær (B&K) Type 5128-B target—but it still solves a lot of issues.
+- AKG_K240_MKII
+- AKG_K701
+- Audeze LCD 2 Classic
+- Audio-Technica_ATH_R70x
+- Audio-Technica_ath-m20x
+- Beyerdynamic_DT880
+- Beyerdynamic_DT1770_PRO
+- Beyerdynamic_DT_700_PRO_X
+- Beyerdynamic_T1_2nd_gen_2
+- Focal_Clear_Mg
+- Grado The Hemp Headphone
+- RØDE NTH-100M
+- Sennheiser_HD_599
+- Sennheiser_HD280_PRO_2016
+- Sennheiser_HD598
+- Superlux HD 668B 
+- Pioneer_DJ HDJ-CUE1BT
+
+</details>
+
 ### AIAIAI
 - AIAIAI_TMA-2DJ
 

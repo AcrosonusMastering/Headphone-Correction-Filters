@@ -68,7 +68,7 @@ In this folder, the headphone response curve is based on the Harman 'hybrid' tar
 
 ### 🎧 Headphone Convolution EQ Collection
 
-A collection of 74 (more soon) impulse responses (IR) in .wav format (48 kHz) designed to correct the frequency response of various headphones and earbuds.
+A collection of 130  impulse responses (IR) in .wav format (48 kHz) designed to correct the frequency response of various headphones and earbuds.
 
 By applying these convolution reverbs / FIR filters, you can neutralize the sound signature of your headphones for a flatter, more transparent, and balanced listening experience—ideal for mixing, mastering, or audiophile music listening.
 
@@ -90,7 +90,7 @@ Click on the impulse file you want, then click the Download button (or the downl
 
 ### 🚀 Key Features
 
-74 headphone & earbud models supported (Sennheiser, Sony, Beyerdynamic, Apple, Audeze, Focal, JBL, and more).
+130 headphone & earbud models supported (Sennheiser, Sony, Beyerdynamic, Apple, Audeze, Focal, JBL, and more).
 
 Audio Format: High-quality 48 kHz .wav impulse responses.
 

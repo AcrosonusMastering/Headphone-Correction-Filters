@@ -4,46 +4,11 @@ Changelog:
 
 ### Headphones added
 In headphone calibration folder with the target curve update
-- Anker_Soundcore_Liberty_5
-- Apple_AirPods_(3rd_gen)
-- Asus_Roghh_Kithara
-- Audeze_LCD-S20
-- Audeze_Maxwell_2
-- Bang___Olufsen_Beoplay_H
-- Beats_Solo_buds
-- Beats_Studio_Pro_BT
-- Bose_700_Headphone_BT
-- Bose_QuietComfort_45-QC4
-- Bowers_Wilkins_Px7 S2BT
-- Bowers_Wilkins_Px7_S3
-- Bowers_Wilkins_Px8
-- Cambridge_Audio_Melomania_P100_SE
-- Corsair_Virtuoso_Pro
-- DALI_IO_12
-- Dan_Clark_Audio_AEON_2_
-- Drop_+_Grell_OAE1
-- EarFun_Air_Pro_4+
-- HIFIman_Edition XS
-- HiFiMan_Arya_Organic
-- JBL_Endurance_Peak_4
-- JBL_Live_670NC
-- JBL_Live_680NC
-- JBL_Tune_770NC
-- JBL_Tune_Buds_True_Wireless
-- JBL_Vibe_Beam_2
-- JBL_Vibe_Buds_True_Wireless
-- JLab_Audio_GO_Sport+
-- Skullcandy_Crusher_1080 A
-- Sony_INZONE_Buds_Truly_
-- Sony_INZONE_E9
-- Sony_INZONE_H6_Air
-- Sony_INZONE_H9_II
-- Sony_LinkBuds_S_Truly_Wirless
-- V-Moda-Crossfade_3
-- Fostex_TH900MK2_LE
-- Nothing CMF_Headphone_Pro
-- Nothing_CMF_Buds_Pro_2
-- Technics_EAH-AZ100
+- Sonos_ace_ulra
+- Beats_360
+- Sony_IER-M500
+-Beyerdynamic_MMX_330_PRO
+
 
 In this folder, the headphone response curve is based on the Harman 'hybrid' target curve—not the latest Brüel & Kjær (B&K) Type 5128-B target—but it still solves a lot of issues.
 - AKG_K240_MKII
